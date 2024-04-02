@@ -1,4 +1,4 @@
-## Computational Linear Algebra for Coders
+## Computational Linear Algebra for Coders - 
 
 This course is focused on the question: **How do we do matrix computations with acceptable speed and acceptable accuracy?**
 
